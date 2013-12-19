@@ -5,7 +5,7 @@ RAILS_VERSION = '~> 3.2.15'
 gem 'actionmailer', RAILS_VERSION
 gem 'actionpack', RAILS_VERSION
 gem 'railties', RAILS_VERSION
-
+gem 'nokogiri', '~> 1.5.11'
 gem 'mongoid'
 
 gem 'mongoid_rails_migrations'
